@@ -3,3 +3,4 @@
 * Dr.DOOM
 * RedSkull
 * Joker
+* Thanos
