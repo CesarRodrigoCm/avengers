@@ -3,4 +3,4 @@
 * Dr.DOOM
 * RedSkull
 * Joker
-* Thanos
+* Superior Iron man
